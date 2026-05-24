@@ -1,0 +1,2 @@
+# An-IV-System-for-Reverse-Blood-Flow-Prevention-and-Infusion-Pump-Based-Drug-Delivery
+This project presents an IoT-based smart tele-controlled IV system for reverse blood flow prevention and automated infusion pump-based drug delivery. It integrates real-time patient monitoring, optical backflow detection, and a web-based dashboard for remote monitoring and control to improve the safety and precision of IV therapy.
