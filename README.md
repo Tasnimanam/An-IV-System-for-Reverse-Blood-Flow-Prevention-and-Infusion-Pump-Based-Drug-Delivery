@@ -16,8 +16,9 @@ This project presents an IoT-based smart tele-controlled IV system for reverse b
 - Low-cost and portable biomedical device design
 
 ## Technologies Used
-- ESP32 / ESP32-S2 Mini
-- Arduino Mega
+- ESP32-S2 Mini
+- platform.io (Visual Studio)
+- ESP32
 - Arduino IDE
 - Flutter Web
 - SolidWorks
